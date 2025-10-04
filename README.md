@@ -1,16 +1,29 @@
-## Hi there 👋
+[![An image of @krishguptaaa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krishguptaaa)](https://holopin.io/@krishguptaaa)[![An image of @krishguptaaa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krishguptaaa)](https://holopin.io/@krishguptaaa)
 
-<!--
-**Krishguptaaa/Krishguptaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hi, I'm Krish**
 
-Here are some ideas to get you started:
+I’m a CSE student interested in data science, machine learning, and open source.
+I enjoy building projects that combine data, AI, and real-world applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I’m working on
+
+Machine learning projects (attrition prediction, tennis match forecasting, tariff analysis)
+
+learning more about deep learning and GenAI
+
+Skills
+
+Languages: Python, C, C++, SQL
+
+ML/DS: Pandas, NumPy, Scikit-learn, CatBoost, Streamlit, tensorflow
+
+Tools: Git/GitHub, Jupyter, VS Code, WSL
+
+Goals
+
+Contribute regularly to open source
+
+Deepen skills in deep learning and cloud computing
+
+Build impactful data-driven applications
+
