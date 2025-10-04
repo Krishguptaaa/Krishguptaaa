@@ -1,4 +1,4 @@
-![An image of @krishguptaaa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krishguptaaa)]
+![An image of @krishguptaaa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krishguptaaa)
 **Hi, I'm Krish**
 
 I’m a CSE student interested in data science, machine learning, and open source.
